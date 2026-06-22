@@ -103,16 +103,16 @@
 ### 📊 Stats
 
 <p align="left">
-<img src="https://github-stats-extended.vercel.app/api?username=shamilahmdt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=Abhishekwmg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=shamilahmdt&label=PROFILE+VIEWS&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=Abhishekwmg&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 ## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shamilahmdt/shamilahmdt/output/github-snake-darkblue.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shamilahmdt/shamilahmdt/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shamilahmdt/shamilahmdt/output/github-snake-darkblue.gif">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishekwmg/Abhishekwmg/output/github-snake-darkblue.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishekwmg/Abhishekwmg/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhishekwmg/Abhishekwmg/output/github-snake-darkblue.gif">
   </picture>
 </p>
