@@ -78,41 +78,9 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shamilahmdt&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss" height="170" alt="Top Langs" />
 </p> 
 
-
-![Shamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamilahmdt&show_icons=true&theme=radical)
--->
-
-## ☕ Support My Work
-
-<a href="https://buymeachai.ezee.li/shamil_ahmd">
-  <img
-    src="https://buymeachai.ezee.li/assets/images/buymeachai-button.png"
-    alt="Buy Me A Chai"
-    width="180"
-  />
-</a>
-
 ---
 ## 🌐 Connect With Me
 - 📧 Email: [ak89471@gmail.com](mailto:shamilahmd12@gmail.com)
 - 💼 LinkedIn: [Shamil Ahammed T](https://www.linkedin.com/in/abhk) 
 - 🌍 Portfolio: [Shamil Ahammed T](https://wmgdev.netlify.app)
 - 💻 Github: [shamilahmdt](https://github.com/Abhishekwmg)
----
-
-### 📊 Stats
-
-<p align="left">
-<img src="https://github-stats-extended.vercel.app/api?username=Abhishekwmg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats" />
-</p>
-
-![](https://komarev.com/ghpvc/?username=Abhishekwmg&label=PROFILE+VIEWS&color=0e75b6&style=flat)
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishekwmg/Abhishekwmg/output/github-snake-darkblue.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishekwmg/Abhishekwmg/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhishekwmg/Abhishekwmg/output/github-snake-darkblue.gif">
-  </picture>
-</p>
