@@ -50,21 +50,6 @@
 - 🔗 [Live](https://openaero.netlify.app/)
 
 ---
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishekwmg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekwmg&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekwmg&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekwmg&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
----
 
 ## 🌐 Connect With Me
 
