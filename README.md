@@ -1,86 +1,59 @@
-# Hi there 👋 I'm Abhishek K
+# Hi there 👋 I'm Abhishek Kumar
 
-💻 Frontend Developer (React, Next + TS)  
-🚀 Passionate about building scalable web applications  
-📍 Delhi, India 
+💻 Frontend Engineer (React, Next.js, TypeScript)  
+🚀 4+ years building production-grade, client-facing web applications  
+📍 Gurugram, India
 
 ---
 
 ## 🧑‍💼 About Me
-- 🌱 Learning: Advanced Frontend and Design Systems
-- 💡 Interested in: SaaS, AI-powered apps, and modern UI/UX  
-- ⚡ Goal: Become a top-tier Full Stack Developer  
+
+- 💼 Currently building and scaling a geospatial search platform for a Fortune 500 logistics & healthcare client at Publicis Sapient
+- 🌱 Sharpening skills in advanced frontend architecture and design systems
+- 💡 Interested in: SaaS products, AI-assisted development workflows, and modern UI/UX
+- ⚡ Exploring: CI/CD pipelines and applied AI/ML fundamentals
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-131314?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/AEM-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
 </p>
 
-<!--
-### 🚀 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css)
-
-### ⚙️ Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-### 🗄 Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase)
--->
+---
 
 ## 📌 Featured Projects
 
-### 🔹 OpenWeather Interactive Map
-- Full stack app with authentication & geolocation  
-- Built using React, Django, PostgreSQL  
-- Secure APIs with JWT authentication  
+### 🔹 [OrbitShop](https://github.com/Abhishekwmg/rc-estore) — E-Commerce Platform
+- Full-featured e-commerce app with product listings, cart, wishlist, and checkout flow
+- Google OAuth via Firebase, persistent cart/session state, light/dark theme switch
+- Built with React, Redux Toolkit, React Router, Tailwind CSS
+- 🔗 [Live](https://orbitshop.netlify.app/)
 
-### 🔹 Orbit Shop
-- Modern UI using Tailwind CSS  
-- Responsive and clean design  
-
-
-<!--
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=github_dark" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shamilahmdt&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss" height="170" alt="Top Langs" />
-</p> 
+### 🔹 [OpenAero](https://github.com/Abhishekwmg/rcWeatherMap) — Interactive Weather Map
+- Real-time weather visualization on an interactive Leaflet map (MapTiler tiles)
+- 7-day forecast, 48-hour hourly forecast, AQI, live filters for temperature/precipitation/wind
+- Built with React 19, TypeScript, TanStack Query, Zod
+- 🔗 [Live](https://openaero.netlify.app/)
 
 ---
+
 ## 🌐 Connect With Me
-- 📧 Email: [ak89471@gmail.com](mailto:shamilahmd12@gmail.com)
-- 💼 LinkedIn: [Shamil Ahammed T](https://www.linkedin.com/in/abhk) 
-- 🌍 Portfolio: [Shamil Ahammed T](https://wmgdev.netlify.app)
-- 💻 Github: [shamilahmdt](https://github.com/Abhishekwmg)
+
+- 📧 Email: [ak89471@gmail.com](mailto:ak89471@gmail.com)
+- 💼 LinkedIn: [Abhishek Kumar](https://www.linkedin.com/in/abhk/)
+- 🌍 Portfolio: [wmgdev.netlify.app](https://wmgdev.netlify.app/)
+- 💻 GitHub: [Abhishekwmg](https://github.com/Abhishekwmg)
