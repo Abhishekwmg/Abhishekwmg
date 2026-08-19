@@ -1,14 +1,14 @@
 # Hi there 👋 I'm Abhishek Kumar
 
 💻 Frontend Engineer (React, Next.js, TypeScript)  
-🚀 4+ years building production-grade, client-facing web applications  
-📍 Gurugram, India
+🚀 5 years building production-grade, client-facing web applications  
+📍 Gurugram, Haryana
 
 ---
 
 ## 🧑‍💼 About Me
 
-- 💼 Currently building and scaling a geospatial search platform for a Fortune 500 logistics & healthcare client at Publicis Sapient
+- 💼 Building and scaling a geospatial search platform for a Fortune 500 logistics & healthcare client at Publicis Sapient
 - 🌱 Sharpening skills in advanced frontend architecture and design systems
 - 💡 Interested in: SaaS products, AI-assisted development workflows, and modern UI/UX
 - ⚡ Exploring: CI/CD pipelines and applied AI/ML fundamentals
